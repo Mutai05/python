@@ -28,7 +28,6 @@ print(x)
 print(y)
 print(z)
 
-
 # Get the Type
 # You can get the data type of a variable with the type() function.
 
@@ -36,3 +35,15 @@ x = 5
 y = "John"
 print(type(x))
 print(type(y))
+
+
+# Case-Sensitive
+# Variable names are case-sensitive.
+# This will create two variables:
+# A will not overwrite a
+
+a = 4
+A = "Ess K"
+
+print(a)
+print(A)

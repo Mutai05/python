@@ -1,1 +1,1 @@
-    print("Five is greater than two!") 
+You can get the data type of a variable with the type() function.
