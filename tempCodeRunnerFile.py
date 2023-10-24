@@ -1,1 +1,1 @@
-You can get the data type of a variable with the type() function.
+Variable names

@@ -52,11 +52,11 @@ print(A)
 # Variable names
 
 myvar = "John"
-my_var = "John"
-_my_var = "John"
-myVar = "John"
-MYVAR = "John"
-myvar2 = "John"
+my_var = "Kelvin"
+_my_var = "Ess K"
+myVar = "Mutai"
+MYVAR = "Sharon"
+myvar2 = "Joy"
 
 
 print(myvar)
@@ -65,3 +65,13 @@ print(_my_var)
 print(myVar)
 print(MYVAR)
 print(myvar2)
+
+# Python Variables - Assign Multiple Values
+# Many Values to Multiple Variables
+# Python allows you to assign values to multiple variables in one line:
+
+x, y, z = "Orange", "Banana", "Cherry"
+
+print(x)
+print(y)
+print(z)
