@@ -34,6 +34,8 @@ print("Hello, Kipkemboi!")
 print("Cheers, Mate!")
 
 # Multiline Comments
+# To add a multiline comment you could insert a # for each line:
+# Or, not quite as intended, you can use a multiline string.
 
 """
 This is a comment
