@@ -1,1 +1,1 @@
-Variable names
+print(MYVAR)
