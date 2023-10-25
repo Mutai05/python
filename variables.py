@@ -75,3 +75,14 @@ x, y, z = "Orange", "Banana", "Cherry"
 print(x)
 print(y)
 print(z)
+
+
+# One Value to Multiple Variables
+# And you can assign the same value to multiple variables in one line:
+
+x = y = z = "Mango"
+
+print(x)
+print(y)
+print(z)
+
