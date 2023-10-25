@@ -102,5 +102,13 @@ print(z)
 x = "Python"
 y = "is"
 z = "Awesome"
+
 print(x, y, z)
 
+# You can also use the + operator to output multiple variables:
+
+x = "Python "
+y = "is "
+z = "Easy"
+
+print(x + y + z)
