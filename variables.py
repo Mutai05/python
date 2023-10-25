@@ -96,4 +96,11 @@ print(x)
 print(y)
 print(z)
 
+# Output variables
+# In the print() function, you output multiple variables, separated by a comma:
+
+x = "Python"
+y = "is"
+z = "Awesome"
+print(x, y, z)
 
