@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 
+
 text = "Hello, World!"
 first_char = text[0]  # Access the first character 'H'
 
