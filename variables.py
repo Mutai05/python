@@ -142,6 +142,9 @@ print("Python is " + x)
 
 # If you use the global keyword, the variable belongs to the global scope:
 
+#  Global variables can be used by everyone, both inside of functions and outside.
+
+
 def myfunc():
   global x
   x = "fantastic"
