@@ -2,5 +2,5 @@
 
 # What do these lines print?
 
-for i in ["Hello", "Holberton", "School", 98]:
-     print(i, end=" ")
+a = { 'id': 89, 'name': "John" }
+a.get('age')

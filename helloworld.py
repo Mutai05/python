@@ -5,15 +5,15 @@ print("Hello, World!")
 # Python Indentation
 # Python uses indentation to indicate a block of code.
 
-if 5 > 2:
-    print("Five is greater than two.")
-if 5 < 8:
-    print("Five is less than six.")
+if 5 > 4:
+    print("Five is greater than four.")
+if 5 < 9:
+    print("Five is less than nine.")
 
 # You have to use the same number of spaces in the same block of code, otherwise Python will give you an error:
-if 5 > 2:
-    print("Five is greater than two!")
-    print("Five is greater than two!")  
+if 2 > 6:
+    print("Six is greater than two!")
+    print("Two is less than two!")  
 
 # Python variables
 
