@@ -93,3 +93,11 @@ print(l)
 
 #display the data type of x:
 print(type(l)) 
+
+m = bytearray(5)
+
+#display x:
+print(m)
+
+#display the data type of x:
+print(type(m)) 
