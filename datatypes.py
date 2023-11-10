@@ -28,3 +28,11 @@ print(c)
 
 #display the data type of x:
 print(type(c)) 
+
+d = ["apple", "banana", "cherry"]
+
+#display x:
+print(d)
+
+#display the data type of x:
+print(type(d)) 
