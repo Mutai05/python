@@ -110,3 +110,10 @@ print(n)
 #display the data type of x:
 print(type(n)) 
 
+p = None
+
+#display x:
+print(p)
+
+#display the data type of x:
+print(type(p)) 
