@@ -44,3 +44,11 @@ print(e)
 
 #display the data type of x:
 print(type(e)) 
+
+f = range(6)
+
+#display x:
+print(f)
+
+#display the data type of x:
+print(type(f)) 
