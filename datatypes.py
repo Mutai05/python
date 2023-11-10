@@ -36,3 +36,11 @@ print(d)
 
 #display the data type of x:
 print(type(d)) 
+
+e = ("apple", "banana", "cherry")
+
+#display x:
+print(e)
+
+#display the data type of x:
+print(type(e)) 
