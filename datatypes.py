@@ -68,3 +68,11 @@ print(h)
 
 #display the data type of x:
 print(type(h)) 
+
+j = frozenset({"apple", "banana", "cherry"})
+
+#display x:
+print(j)
+
+#display the data type of x:
+print(type(j)) 
