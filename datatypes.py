@@ -60,3 +60,11 @@ print(g)
 
 #display the data type of x:
 print(type(g)) 
+
+h = {"apple", "banana", "cherry"}
+
+#display x:
+print(h)
+
+#display the data type of x:
+print(type(h)) 
