@@ -76,3 +76,12 @@ print(j)
 
 #display the data type of x:
 print(type(j)) 
+
+
+x = True
+
+#display x:
+print(k)
+
+#display the data type of x:
+print(type(k)) 
