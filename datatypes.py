@@ -52,3 +52,11 @@ print(f)
 
 #display the data type of x:
 print(type(f)) 
+
+g = {"name" : "John", "age" : 36}
+
+#display x:
+print(g)
+
+#display the data type of x:
+print(type(g)) 
