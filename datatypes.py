@@ -85,3 +85,11 @@ print(k)
 
 #display the data type of x:
 print(type(k)) 
+
+l = b"Hello"
+
+#display x:
+print(l)
+
+#display the data type of x:
+print(type(l)) 
