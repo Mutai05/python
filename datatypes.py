@@ -101,3 +101,12 @@ print(m)
 
 #display the data type of x:
 print(type(m)) 
+
+n = memoryview(bytes(5))
+
+#display x:
+print(n)
+
+#display the data type of x:
+print(type(n)) 
+
