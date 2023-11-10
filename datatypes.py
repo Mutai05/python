@@ -20,3 +20,11 @@ print(b)
 
 #display the data type of x:
 print(type(b)) 
+
+c = 1j
+
+#display x:
+print(c)
+
+#display the data type of x:
+print(type(c)) 
