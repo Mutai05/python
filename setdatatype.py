@@ -10,17 +10,17 @@ print(type(x))
 
 a = int(20)
 
-#display x:
+#display a:
 print(a)
 
-#display the data type of x:
+#display the data type of a:
 print(type(a)) 
 
 
 b = float(20.5)
 
-#display x:
+#display b:
 print(b)
 
-#display the data type of x:
+#display the data type of b:
 print(type(b)) 
