@@ -112,8 +112,8 @@ print(type(n))
 
 p = None
 
-#display x:
+#display p:
 print(p)
 
-#display the data type of x:
+#display the data type of p:
 print(type(p)) 
