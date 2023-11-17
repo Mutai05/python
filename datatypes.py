@@ -104,12 +104,11 @@ print(type(m))
 
 n = memoryview(bytes(5))
 
-#display x:
+#display n:
 print(n)
 
-#display the data type of x:
+#display the data type of n:
 print(type(n)) 
-
 p = None
 
 #display p:
