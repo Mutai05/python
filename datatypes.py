@@ -7,10 +7,10 @@ x = 5
 print(type(x)) 
 
 a = "Hello World"
-#display x:
+#display a:
 print(a)
 
-#display the data type of x:
+#display the data type of a:
 print(type(a)) 
 
 b = 20.5
