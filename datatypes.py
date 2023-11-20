@@ -31,10 +31,10 @@ print(type(c))
 
 d = ["apple", "banana", "cherry"]
 
-#display x:
+#display d:
 print(d)
 
-#display the data type of x:
+#display the data type of d:
 print(type(d)) 
 
 e = ("apple", "banana", "cherry")
