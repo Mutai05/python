@@ -15,18 +15,18 @@ print(type(a))
 
 b = 20.5
 
-#display x:
+#display b:
 print(b)
 
-#display the data type of x:
+#display the data type of b:
 print(type(b)) 
 
 c = 1j
 
-#display x:
+#display c:
 print(c)
 
-#display the data type of x:
+#display the data type of c:
 print(type(c)) 
 
 d = ["apple", "banana", "cherry"]
