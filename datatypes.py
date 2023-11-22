@@ -39,18 +39,18 @@ print(type(d))
 
 e = ("apple", "banana", "cherry")
 
-#display x:
+#display e:
 print(e)
 
-#display the data type of x:
+#display the data type of e:
 print(type(e)) 
 
 f = range(6)
 
-#display x:
+#display f:
 print(f)
 
-#display the data type of x:
+#display the data type of f:
 print(type(f)) 
 
 g = {"name" : "John", "age" : 36}
