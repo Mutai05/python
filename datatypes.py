@@ -55,18 +55,18 @@ print(type(f))
 
 g = {"name" : "John", "age" : 36}
 
-#display x:
+#display g:
 print(g)
 
-#display the data type of x:
+#display the data type of g:
 print(type(g)) 
 
 h = {"apple", "banana", "cherry"}
 
-#display x:
+#display h:
 print(h)
 
-#display the data type of x:
+#display the data type of h:
 print(type(h)) 
 
 j = frozenset({"apple", "banana", "cherry"})
