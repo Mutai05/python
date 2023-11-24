@@ -71,19 +71,19 @@ print(type(h))
 
 j = frozenset({"apple", "banana", "cherry"})
 
-#display x:
+#display j:
 print(j)
 
-#display the data type of x:
+#display the data type of j:
 print(type(j)) 
 
 
 k = True
 
-#display x:
+#display k:
 print(k)
 
-#display the data type of x:
+#display the data type of k:
 print(type(k)) 
 
 l = b"Hello"
