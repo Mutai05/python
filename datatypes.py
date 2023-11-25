@@ -88,18 +88,18 @@ print(type(k))
 
 l = b"Hello"
 
-#display x:
+#display l:
 print(l)
 
-#display the data type of x:
+#display the data type of l:
 print(type(l)) 
 
 m = bytearray(5)
 
-#display x:
+#display m:
 print(m)
 
-#display the data type of x:
+#display the data type of m:
 print(type(m)) 
 
 n = memoryview(bytes(5))
