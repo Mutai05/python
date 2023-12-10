@@ -67,9 +67,3 @@ if a > 2:
         print("C is fun")
 else:
     print("School")
-
-# Question #8
-# What do these lines print?
-
-for i in range(4):
-    print(i, end=" ")
