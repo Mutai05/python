@@ -41,6 +41,7 @@ def my_function(counter=89):
 my_function(12)
 
 # Question #5
+# What do these code print?
 
 def my_function(counter=89):
      print("Counter: {}".format(counter))
