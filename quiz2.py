@@ -23,11 +23,3 @@ def my_function():
     print("In my function")
  
 my_function
-
-# Question #3
-# What do these lines print?
-
-def my_function():
-    print("In my function")
- 
-my_function()
